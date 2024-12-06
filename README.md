@@ -11,3 +11,4 @@ a practicar las bases del código HTML + CSS + JS 💗
 src="https://avatars.githubusercontent.com/u/144040501?v=4"
 alt="Ricardo Cruz Torres"
 width="200"/>
+Cruz Torres Ricardo
